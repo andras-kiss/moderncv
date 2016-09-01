@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.1.21)  1 SEP 2016 10:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.1.21)  1 SEP 2016 10:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1206,11 +1206,11 @@ Elec-trochim-ica Acta, ar-ti-cle in press,
 [3] 
 AED: lastpage setting LastPage
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 192.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 192.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 190.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 190.
  (./cv_andras_kiss.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 192.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 192.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 190.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 190.
 Package rerunfilecheck Info: File `cv_andras_kiss.out' has not changed.
 (rerunfilecheck)             Checksum: 1DAD6D8FED482384834C889C594317FF;1297.
  ) 
@@ -1232,7 +1232,7 @@ pe1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmro17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/ma
 rvosym.pfb>
-Output written on cv_andras_kiss.pdf (4 pages, 309077 bytes).
+Output written on cv_andras_kiss.pdf (4 pages, 309005 bytes).
 PDF statistics:
  133 PDF objects out of 1000 (max. 8388607)
  112 compressed objects within 2 object streams
