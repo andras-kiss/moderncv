@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.13)  15 APR 2017 00:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.13)  15 APR 2017 00:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1319,23 +1319,23 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 67.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
- <./self_bw-eps-converted-to.pdf>] [2] [3] [4] 
+ <./self_bw-eps-converted-to.pdf>] [2] [3] [4] [5] 
 AED: lastpage setting LastPage
-[5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 255.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 255.
+[6]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 256.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 256.
  (./cv_andras_kiss.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 255.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 255.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 256.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 256.
 Package rerunfilecheck Info: File `cv_andras_kiss.out' has not changed.
-(rerunfilecheck)             Checksum: 562C3D283BDCC31302DCC8687635B5BE;1382.
+(rerunfilecheck)             Checksum: AA9ECA6221D44D247F88FF5C8B68CEFA;1448.
  ) 
 Here is how much of TeX's memory you used:
- 28647 strings out of 493013
- 526882 string characters out of 6135682
+ 28644 strings out of 493013
+ 526846 string characters out of 6135682
  615683 words of memory out of 5000000
  31714 multiletter control sequences out of 15000+600000
- 73631 words of font info for 88 fonts, out of 8000000 for 9000
+ 73418 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,15n,60p,10366b,777s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
@@ -1348,10 +1348,10 @@ pe1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmro17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/ma
 rvosym.pfb>
-Output written on cv_andras_kiss.pdf (5 pages, 304950 bytes).
+Output written on cv_andras_kiss.pdf (6 pages, 305504 bytes).
 PDF statistics:
- 142 PDF objects out of 1000 (max. 8388607)
- 120 compressed objects within 2 object streams
- 17 named destinations out of 1000 (max. 500000)
+ 147 PDF objects out of 1000 (max. 8388607)
+ 124 compressed objects within 2 object streams
+ 18 named destinations out of 1000 (max. 500000)
  22122 words of extra memory for PDF output out of 24883 (max. 10000000)
 
