@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.13)  18 APR 2017 18:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.7.21)  15 NOV 2017 15:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1287,10 +1287,10 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 \makecvheadpicturebox=\box57
 Package epstopdf Info: Source file: <self_bw.eps>
-(epstopdf)                    date: 2017-04-14 23:30:33
+(epstopdf)                    date: 2016-09-01 15:29:31
 (epstopdf)                    size: 393281 bytes
 (epstopdf)             Output file: <self_bw-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-04-14 23:30:33
+(epstopdf)                    date: 2016-09-01 15:30:13
 (epstopdf)                    size: 35540 bytes
 (epstopdf)             Command: <repstopdf --outfile=self_bw-eps-converted-to.p
 df self_bw.eps>
@@ -1322,20 +1322,20 @@ LaTeX Font Info:    External font `lmex10' loaded for size
  <./self_bw-eps-converted-to.pdf>] [2] [3] [4] [5] 
 AED: lastpage setting LastPage
 [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 261.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 261.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 269.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 269.
  (./cv_andras_kiss.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 261.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 261.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 269.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 269.
 Package rerunfilecheck Info: File `cv_andras_kiss.out' has not changed.
 (rerunfilecheck)             Checksum: AA9ECA6221D44D247F88FF5C8B68CEFA;1448.
  ) 
 Here is how much of TeX's memory you used:
- 28644 strings out of 493013
- 526846 string characters out of 6135682
- 615685 words of memory out of 5000000
+ 28646 strings out of 493013
+ 526870 string characters out of 6135682
+ 615687 words of memory out of 5000000
  31714 multiletter control sequences out of 15000+600000
- 73418 words of font info for 86 fonts, out of 8000000 for 9000
+ 73548 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,15n,60p,10366b,777s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
@@ -1348,7 +1348,7 @@ pe1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmro17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/ma
 rvosym.pfb>
-Output written on cv_andras_kiss.pdf (6 pages, 305873 bytes).
+Output written on cv_andras_kiss.pdf (6 pages, 306261 bytes).
 PDF statistics:
  147 PDF objects out of 1000 (max. 8388607)
  124 compressed objects within 2 object streams
