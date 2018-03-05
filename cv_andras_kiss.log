@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.7.21)  15 NOV 2017 16:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.1.10)  5 MAR 2018 13:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1287,10 +1287,10 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 \makecvheadpicturebox=\box57
 Package epstopdf Info: Source file: <self_bw.eps>
-(epstopdf)                    date: 2016-09-01 15:29:31
+(epstopdf)                    date: 2018-03-05 13:32:17
 (epstopdf)                    size: 393281 bytes
 (epstopdf)             Output file: <self_bw-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-09-01 15:30:13
+(epstopdf)                    date: 2018-03-05 13:32:17
 (epstopdf)                    size: 35540 bytes
 (epstopdf)             Command: <repstopdf --outfile=self_bw-eps-converted-to.p
 df self_bw.eps>
@@ -1333,7 +1333,7 @@ Package rerunfilecheck Info: File `cv_andras_kiss.out' has not changed.
 Here is how much of TeX's memory you used:
  28646 strings out of 493013
  526870 string characters out of 6135682
- 615687 words of memory out of 5000000
+ 615685 words of memory out of 5000000
  31714 multiletter control sequences out of 15000+600000
  73548 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
